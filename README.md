@@ -2,7 +2,8 @@ RAM PRASAD REDDY GAJJALA
 
 rxg7117@mavs.uta.edu | (682)-405-1906 | linkedin.com/ram-prasad-reddy-gajjala
 
-EDUCATION  	 
+EDUCATION  
+
      University of Texas, Arlington, TX
      Master of Science in Computer Science, May 2025
 Selected Coursework: Data Analytics and Modeling Techniques CSE 5301, Design and Analysis of Algorithms CSE 5311, DBMS Models and Implementation CSE 5331

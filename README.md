@@ -51,6 +51,3 @@ AWARDS
 •	Awarded 3 times for “Taking ownership to Deliver Fast” and 2 times for “Team up to win “at PHILIPS.
 •	Won people choice award for PHILIPS Hack-a-ton (A Library to create bugs with attachment from within the mobile minimizing  QA team effort by 25%).
 
-
-
-![image](https://github.com/gramprasadreddy/gramprasadreddy.github.io/assets/21344445/c21587e1-963c-458a-a0ed-9b99eab251a3)

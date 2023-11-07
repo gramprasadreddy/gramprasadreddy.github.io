@@ -56,5 +56,5 @@ AWARDS
 
      •	Won HackUTA-2023 for Project Philia (Generative AI based  mobile application for reminding and creating post, messages for any events like birthdays, anniversaries)
      •	Awarded 3 times for “Taking ownership to Deliver Fast” and 2 times for “Team up to win “at PHILIPS.
-     •	Won people choice award for PHILIPS Hack-a-ton (A Library to create bugs with attachment from within the mobile minimizing  QA team effort by 25%).
+     •	Won people choice award for PHILIPS Hack-a-thon (A Library to create bugs with attachment from within the mobile minimizing  QA team effort by 25%).
 
